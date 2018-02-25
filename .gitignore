@@ -7,3 +7,5 @@
 .vs/ServiceSMTP/v15/.suo
 *.ide-shm
 *.ide-wal
+*.ide
+.vs/ServiceSMTP/v15/.suo
